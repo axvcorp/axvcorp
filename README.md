@@ -43,22 +43,6 @@
 <br>
 <br>
 <br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=axvcorp&theme=tokyonight" alt="axvcorp" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=axvcorp&show_icons=true&theme=tokyonight&locale=en" alt="axvcorp" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axvcorp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="zeroxxid" />
-    </td>
-  </tr>
-</table>
-<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=axvcorp&label=Visitors&color=ff0000&style=plastic" alt="axvcorp" />
 </p>
