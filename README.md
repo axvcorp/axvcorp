@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeroxxid&theme=tokyonight" alt="axvcorp" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=axvcorp&theme=tokyonight" alt="axvcorp" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=axvcorp&show_icons=true&theme=tokyonight&locale=en" alt="axvcorp" />
